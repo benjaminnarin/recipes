@@ -16,8 +16,8 @@
 
 ## Extra Directions
 
-Jon: I add more sugar and worcestershire sauce to make it more sweet
-jon: If you want to add chiles you can
+Add more sugar and worcestershire sauce to make it more sweet/sour. 
+Add chiles if you want more heat. 
 
 ## Instructions
 
