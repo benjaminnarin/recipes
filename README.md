@@ -18,3 +18,5 @@
 [Classic Coleslaw](my_recipes/classic_coleslaw.md)
 
 [Flour Tortillas](my_recipes/flour_tortillas.md)
+
+[Flambe Banana](my_recipes/flambe_banana.md)

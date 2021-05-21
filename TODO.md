@@ -5,7 +5,6 @@ Mushroom Carbonara
 Spring Rolls
 Peanut Sauce
 Corn Tortillas
-Flambe Bananas
 Kale Ceaser Salad
 Pancakes
 Pan Seared Steaks
