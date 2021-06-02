@@ -9,6 +9,12 @@ Based on recipe from [here](https://www.seriouseats.com/ingredient-stovetop-mac-
 * 6 oz Evaporated Milk
 * 6 oz cheese (but to be honest use as much as you want)
 * Any extra ingredients (chicken,sausage,)
+* dried mustard
+* onion powder
+* garlic powder
+* paprika
+* salt to taste
+* pepper to taste
 
 ## Instructions
 

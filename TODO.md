@@ -1,4 +1,4 @@
-Whole Chicken Recipe
+Whole Chicken Recipe (herb butter)
 Asian Stock
 Simple Soup
 Mushroom Carbonara
@@ -11,6 +11,5 @@ Pan Seared Steaks
 Mushroom Pan Sauce
 Pizza Recipe (Add Topping Options)
 Goat Cheese Tart
-Bao Recipe
 Challah Recipe
 Long Mac and Cheese (Bechamel base)

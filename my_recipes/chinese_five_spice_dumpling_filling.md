@@ -9,7 +9,7 @@ Based on recipe from [here](https://www.chatelaine.com/recipe/world-cuisine-2/re
 * 1 1/2 tsp chili-garlic sauce
 * 1/2 tsp five-spice powder (possibly more)
 * 1/4 tsp dark sesame oil
-* 1 lb or 200g beef or lamb ground meat
+* 1 lb beef
 * 1/3 - 1/2 Cup Cabbage
 * 2-3 sliced scallions
 * 36 dumpling wrappers
