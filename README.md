@@ -22,3 +22,9 @@
 [Flambe Banana](my_recipes/flambe_banana.md)
 
 [Bao Dough](my_recipes/bao_dough.md)
+
+[Buttermilk Pancakes](my_recipes/buttermilk_pancakes.md)
+
+[Sushi](my_recipes/sushi_rolls.md)
+
+[Mai Tai](my_recipes/mai_tai.md)
